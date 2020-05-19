@@ -1,3 +1,6 @@
+Machine learning Coursera Stanford codes
+-
+
 I've made this for those persons that are stuck in the programming assigments of the coursera course Machine Learning by Stanford University and Andrew Ng.
 
 This repo Contains:
